@@ -1,8 +1,8 @@
 # Udacity Data Analyst Nanodegree
 
-This repository has all Jupyter Notebooks that summarizes important techniques I've learned throughout the program.
+This repository has all Jupyter Notebooks that summarize important techniques I've learned throughout the program.
 
-Details about the program can be found [HERE](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
+Details about the program can be found [HERE](https://www.udacity.com/course/data-analyst-nanodegree--nd002).
 
 1. Introduction to Data Analysis
 2. Practical Statistics
