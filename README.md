@@ -5,13 +5,13 @@ This repository has all Jupyter Notebooks that summarize important techniques I'
 Details about the program can be found [HERE](https://www.udacity.com/course/data-analyst-nanodegree--nd002).
 
 ## Table of contents
-1. Introduction to Data Analysis
+### 1. Introduction to Data Analysis
   * Anaconda
   * Jupyter Notebooks
   * The Data Analysis Process
   * Case Study 1
   * Case Study 2
-2. Practical Statistics
+### 2. Practical Statistics
   * Descriptive Statistics
   * Admission Case Study (Simpson's Paradox)
   * Probability
@@ -27,18 +27,18 @@ Details about the program can be found [HERE](https://www.udacity.com/course/dat
   * Regression
   * Multiple Linear Regression
   * Logistic Regression
-3. Data Wrangling
+### 3. Data Wrangling
   * Gathering Data
   * Assessing Data
   * Cleaning Data
-4. Data Visualization
+### 4. Data Visualization
   * Design of Visualizations
   * Unvariate Exploration of Data
   * Bivarate Exploration of Data
   * Multivariate Exploration of Data
   * Explanatory of Visualizations
   * Visualization Case Study
-5. Course projects
+### 5. Course projects
    * Project 1 - Explore Weather Trends
    * Project 2 - Investigate the Movie Database (TMDB)
    * Project 3 - Project 3 - Analyze A/B Test Results
