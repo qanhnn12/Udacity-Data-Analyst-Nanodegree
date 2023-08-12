@@ -1,0 +1,4 @@
+jupyter nbconvert presentation.ipynb --to slides
+
+jupyter nbconvert presentation.ipynb --to slides --template output-toggle.tpl
+--post serve
