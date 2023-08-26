@@ -41,4 +41,6 @@ Details about the program can be found [HERE](https://www.udacity.com/course/dat
 ### 5. Course projects
    * Project 1 - Explore Weather Trends
    * Project 2 - Investigate the Movie Database (TMDB)
-   * Project 3 - Project 3 - Analyze A/B Test Results
+   * Project 3 - Analyze A/B Test Results
+   * Project 4 - Wrangle and Analyze WeRateDogs Twitter datasets
+   * Project 5 - Visualize the PISA 2012 dataset
